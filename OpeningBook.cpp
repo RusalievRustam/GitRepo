@@ -1,6 +1,7 @@
 #include <ncurses.h>
 #include <unistd.h>
 #include <cstdlib>
+#include <iostream>
 
 using namespace std;
 
@@ -162,4 +163,7 @@ int main() {
 
     endwin(); // Завершаем работу с ncurses
     return 0;
+
+    cout<<"Поменял код Rustam";
+
 }
