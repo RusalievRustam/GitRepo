@@ -166,4 +166,6 @@ int main() {
 
     cout<<"Поменял код Rustam";
 
+    cout<<"Изменения by Erlik Sulaimanov";
+
 }
