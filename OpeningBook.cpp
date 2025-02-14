@@ -166,5 +166,5 @@ int main() {
 
     cout<<"Поменял код Rustam";
     cout<<"Поменял код Арстанбек";
-
+    cout<<"Updated by Erlik";
 }
